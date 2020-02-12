@@ -1,0 +1,1639 @@
+fileFormatVersion: 2
+guid: 33a13e29e0e81244484d547b93abae8b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7947898510398351112
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+      (1)_0
+  - first:
+      213: -3910503390696709290
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+      (1)_1
+  - first:
+      213: -4906228746654119159
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+      (1)_2
+  - first:
+      213: -5809512193243256704
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+      (1)_3
+  - first:
+      213: -3476685730678447093
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+      (1)_4
+  - first:
+      213: 1378604132796734479
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+      (1)_5
+  - first:
+      213: 3533225047581077898
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+      (1)_6
+  - first:
+      213: -161678603932930986
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+      (1)_7
+  - first:
+      213: 2106147393522767327
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+      (1)_8
+  - first:
+      213: -1328351746575231346
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+      (1)_9
+  - first:
+      213: 2663061765909541502
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+      (1)_10
+  - first:
+      213: 6761730796417854552
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+      (1)_11
+  - first:
+      213: 5981720542376786294
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+      (1)_12
+  - first:
+      213: 2364269021229627044
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+      (1)_13
+  - first:
+      213: 2288571565728332592
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+      (1)_14
+  - first:
+      213: 2814704866216397376
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+      (1)_15
+  - first:
+      213: -3550543578603099322
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+      (1)_16
+  - first:
+      213: -4078585211235635644
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+      (1)_17
+  - first:
+      213: 4609176154838537564
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+      (1)_18
+  - first:
+      213: 1575058741822155789
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+      (1)_19
+  - first:
+      213: -2329988476462764305
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+      (1)_20
+  - first:
+      213: 6643706485842611297
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+      (1)_21
+  - first:
+      213: 7646343560026545275
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+      (1)_22
+  - first:
+      213: 4167473664490041135
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+      (1)_23
+  - first:
+      213: 3408620396984033351
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+      (1)_24
+  - first:
+      213: -359791160690104500
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+      (1)_25
+  - first:
+      213: -4377003821892563880
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+      (1)_26
+  - first:
+      213: -1751625748479784662
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+      (1)_27
+  - first:
+      213: 6581619083034217286
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+      (1)_28
+  - first:
+      213: -5854610686479777392
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+      (1)_29
+  - first:
+      213: 5529359355782748041
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+      (1)_30
+  - first:
+      213: 7738719650750126159
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+      (1)_31
+  - first:
+      213: -8235743133983115927
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+      (1)_32
+  - first:
+      213: -428294091468753092
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+      (1)_33
+  - first:
+      213: -4600470027357718684
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+      (1)_34
+  - first:
+      213: -5789918448880548078
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+      (1)_35
+  - first:
+      213: -8356490738278438670
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+      (1)_36
+  - first:
+      213: -6254968637467917489
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+      (1)_37
+  - first:
+      213: 2598104667494120400
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+      (1)_38
+  - first:
+      213: 1192604758654034530
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+      (1)_39
+  - first:
+      213: 1073299315076126473
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+      (1)_40
+  - first:
+      213: 1058135459966668757
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+      (1)_41
+  - first:
+      213: -2503610374691786648
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+      (1)_42
+  - first:
+      213: 7552165078176686297
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+      (1)_43
+  - first:
+      213: -5231981593370122355
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+      (1)_44
+  - first:
+      213: 6962140000611718643
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+      (1)_45
+  - first:
+      213: -8557588931277582856
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+      (1)_46
+  - first:
+      213: 4515471638843249806
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+      (1)_47
+  - first:
+      213: 3129230197840429866
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+      (1)_48
+  - first:
+      213: -4703236954160533219
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+      (1)_49
+  - first:
+      213: 8031216643827537375
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+      (1)_0
+  - first:
+      213: -4268795054785673565
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+      (1)_1
+  - first:
+      213: 7361594524794666149
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+      (1)_2
+  - first:
+      213: -3735112325331979341
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+      (1)_3
+  - first:
+      213: -7177206470973303147
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+      (1)_4
+  - first:
+      213: -4604550351601259935
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+      (1)_5
+  - first:
+      213: -6857298672961190137
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+      (1)_6
+  - first:
+      213: -2483964823083981183
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+      (1)_7
+  - first:
+      213: 8020368205521152427
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+      (1)_8
+  - first:
+      213: -4773124985039843026
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+      (1)_9
+  - first:
+      213: -4418045494694345954
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+      (1)_10
+  - first:
+      213: 6385211769429152494
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+      (1)_11
+  - first:
+      213: 2665541290288798400
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+      (1)_12
+  - first:
+      213: 5793921325886890935
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+      (1)_13
+  - first:
+      213: 1666281053477366079
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+      (1)_14
+  - first:
+      213: 5018964972472886748
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+      (1)_15
+  - first:
+      213: -6535447671393049439
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+      (1)_16
+  - first:
+      213: 6490523616411633067
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+      (1)_17
+  - first:
+      213: -5914217606502193307
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+      (1)_18
+  - first:
+      213: -6167301179854155942
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+      (1)_19
+  - first:
+      213: -8478670228680241136
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+      (1)_20
+  - first:
+      213: 4537898155503707816
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+      (1)_21
+  - first:
+      213: -2657064390888250848
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+      (1)_22
+  - first:
+      213: 7346805642156063605
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+      (1)_23
+  - first:
+      213: 8462824419364349063
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+      (1)_24
+  - first:
+      213: 8374487814617025529
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+      (1)_25
+  - first:
+      213: -7076117200715342821
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+      (1)_26
+  - first:
+      213: -2124989942996944836
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+      (1)_27
+  - first:
+      213: 589353428532155699
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+      (1)_28
+  - first:
+      213: 1485597093509927612
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+      (1)_29
+  - first:
+      213: 943836563857348834
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+      (1)_30
+  - first:
+      213: 147065897976193345
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+      (1)_31
+  - first:
+      213: -5138480521548309912
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+      (1)_32
+  - first:
+      213: -6876273858426778336
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+      (1)_33
+  - first:
+      213: -8951751996958194373
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+      (1)_34
+  - first:
+      213: 6660264102764925542
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+      (1)_35
+  - first:
+      213: 9177353504825360657
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+      (1)_36
+  - first:
+      213: 606653344884676219
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+      (1)_37
+  - first:
+      213: -2325763114328917498
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+      (1)_38
+  - first:
+      213: 8608356964329794251
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+      (1)_39
+  - first:
+      213: -6923067129506765787
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+      (1)_40
+  - first:
+      213: 9042996583070161821
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+      (1)_41
+  - first:
+      213: -7803934653722986733
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+      (1)_42
+  - first:
+      213: 1525054800697850449
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+      (1)_43
+  - first:
+      213: -785930389528695447
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+      (1)_44
+  - first:
+      213: 2060453701131644543
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+      (1)_45
+  - first:
+      213: -3158726596451338823
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+      (1)_46
+  - first:
+      213: -641871445856541157
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+      (1)_47
+  - first:
+      213: -4102332217092615588
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+      (1)_48
+  - first:
+      213: 7140073612354399484
+    second: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+      (1)_49
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 2
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+        (1)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 910
+        width: 120
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd59b818cfc947f60800000000000000
+      internalID: 8031216643827537375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+        (1)_1
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 910
+        width: 120
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a64e84c38132c4c0800000000000000
+      internalID: -4268795054785673565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+        (1)_2
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 910
+        width: 120
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5acb8d68733a92660800000000000000
+      internalID: 7361594524794666149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+        (1)_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 780
+        width: 120
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b3776c21273a2cc0800000000000000
+      internalID: -3735112325331979341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+        (1)_4
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 780
+        width: 120
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596500abdb0756c90800000000000000
+      internalID: -7177206470973303147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+        (1)_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 780
+        width: 120
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a2866e9d95910c0800000000000000
+      internalID: -4604550351601259935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+        (1)_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 650
+        width: 120
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 707046f303bf5d0a0800000000000000
+      internalID: -6857298672961190137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+        (1)_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 520
+        width: 120
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186638d672f278dd0800000000000000
+      internalID: -2483964823083981183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+        (1)_8
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 520
+        width: 120
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba9ece1a3621e4f60800000000000000
+      internalID: 8020368205521152427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+        (1)_9
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 520
+        width: 120
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e21982e7d1472cdb0800000000000000
+      internalID: -4773124985039843026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+        (1)_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 390
+        width: 120
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e138a37c703ffa2c0800000000000000
+      internalID: -4418045494694345954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+        (1)_11
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 390
+        width: 120
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee2d7742644dc9850800000000000000
+      internalID: 6385211769429152494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+        (1)_12
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 390
+        width: 120
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cadccd4ea7edf420800000000000000
+      internalID: 2665541290288798400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+        (1)_13
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 390
+        width: 120
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b36c069fb4286050800000000000000
+      internalID: 5793921325886890935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+        (1)_14
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 390
+        width: 120
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f396b703ac1df1710800000000000000
+      internalID: 1666281053477366079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+        (1)_15
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 390
+        width: 120
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd5ef540d02f6a540800000000000000
+      internalID: 5018964972472886748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+        (1)_16
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 390
+        width: 120
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a4a67a18fc6d45a0800000000000000
+      internalID: -6535447671393049439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+        (1)_17
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 390
+        width: 120
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba5cf7247d8f21a50800000000000000
+      internalID: 6490523616411633067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+        (1)_18
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 390
+        width: 120
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5676318fb6a7ceda0800000000000000
+      internalID: -5914217606502193307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+        (1)_19
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 390
+        width: 120
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f02ffa048596aa0800000000000000
+      internalID: -6167301179854155942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+        (1)_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 260
+        width: 120
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01095d35956b55a80800000000000000
+      internalID: -8478670228680241136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+        (1)_21
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 260
+        width: 120
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a6e2b1645ad9fe30800000000000000
+      internalID: 4537898155503707816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+        (1)_22
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 260
+        width: 120
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02224c3a306302bd0800000000000000
+      internalID: -2657064390888250848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+        (1)_23
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 260
+        width: 120
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b3c867ec815f560800000000000000
+      internalID: 7346805642156063605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+        (1)_24
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 260
+        width: 120
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784a6b0b8fdf17570800000000000000
+      internalID: 8462824419364349063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+        (1)_25
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 260
+        width: 120
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fbc5162c48283470800000000000000
+      internalID: 8374487814617025529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+        (1)_26
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 260
+        width: 120
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c945695e49ccd90800000000000000
+      internalID: -7076117200715342821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+        (1)_27
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 260
+        width: 120
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c38b360d7e48282e0800000000000000
+      internalID: -2124989942996944836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+        (1)_28
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 260
+        width: 120
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33551da12ddcd2800800000000000000
+      internalID: 589353428532155699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+        (1)_29
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 260
+        width: 120
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb2130e7fa6ed9410800000000000000
+      internalID: 1485597093509927612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+        (1)_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 130
+        width: 120
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e81ebaaa5e291d00800000000000000
+      internalID: 943836563857348834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+        (1)_31
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 130
+        width: 120
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 141e17fa7ab7a0200800000000000000
+      internalID: 147065897976193345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+        (1)_32
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 130
+        width: 120
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a59d3c03370b8b0800000000000000
+      internalID: -5138480521548309912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+        (1)_33
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 130
+        width: 120
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02dca2a9b519290a0800000000000000
+      internalID: -6876273858426778336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+        (1)_34
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 130
+        width: 120
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b35c9e7bcfcf4c380800000000000000
+      internalID: -8951751996958194373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+        (1)_35
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 130
+        width: 120
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 662d693f9e20e6c50800000000000000
+      internalID: 6660264102764925542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+        (1)_36
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 130
+        width: 120
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1114d4193628c5f70800000000000000
+      internalID: 9177353504825360657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+        (1)_37
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 130
+        width: 120
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7657a3c0044b6800800000000000000
+      internalID: 606653344884676219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+        (1)_38
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 130
+        width: 120
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60af7ba15ca39bfd0800000000000000
+      internalID: -2325763114328917498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+        (1)_39
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 130
+        width: 120
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca23aecc07077770800000000000000
+      internalID: 8608356964329794251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+        (1)_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 120
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 524e09d20235cef90800000000000000
+      internalID: -6923067129506765787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+        (1)_41
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 120
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9bd7fefa7d2f7d70800000000000000
+      internalID: 9042996583070161821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+        (1)_42
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 120
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 317fa7a87cad2b390800000000000000
+      internalID: -7803934653722986733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+        (1)_43
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 120
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a799ad2451a2510800000000000000
+      internalID: 1525054800697850449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+        (1)_44
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 120
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d25f98970d715f0800000000000000
+      internalID: -785930389528695447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+        (1)_45
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 120
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7e271479b3389c10800000000000000
+      internalID: 2060453701131644543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+        (1)_46
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 120
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b570fb65e2f924d0800000000000000
+      internalID: -3158726596451338823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+        (1)_47
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 0
+        width: 120
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b16214e125d9717f0800000000000000
+      internalID: -641871445856541157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+        (1)_48
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 120
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52dd8965969117c0800000000000000
+      internalID: -4102332217092615588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-2d-computer-graphics-unity-animation-sprite-5ab4ed5d3573c3.560514601521806685219
+        (1)_49
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 0
+        width: 120
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc2686ee13a61360800000000000000
+      internalID: 7140073612354399484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: fbcaf11382b1bd949b277aa87af17f4a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
